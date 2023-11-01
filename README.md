@@ -18,4 +18,8 @@ Documentation Here
 
 ## Developers
 
-- Arthur Kustitskiy (https://github.com/ArthurKust)
+- [ArthurKust](https://github.com/ArthurKust)
+
+## License
+
+Project Survival Guide is distributed under the MIT License.
