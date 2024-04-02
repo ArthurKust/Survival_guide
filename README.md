@@ -12,10 +12,6 @@
 
 This is a test app for studying. This app can help victims of an accident to survive in different climates by giving helpful tips.
 
-## Documentation
-
-Documentation Here
-
 ## Developers
 
 - [ArthurKust](https://github.com/ArthurKust)
